@@ -1,0 +1,6 @@
+/* Custom styles for auth pages */
+body { font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.card { border-radius: 12px; }
+.form-control:focus { box-shadow: none; border-color: #6c63ff; }
+.btn-primary { background: linear-gradient(90deg,#6c63ff,#8e7bff); border: none; }
+.btn-success { background: linear-gradient(90deg,#20c997,#2bd28f); border: none; }
